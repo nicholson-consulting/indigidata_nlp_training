@@ -31,5 +31,5 @@ Once that has run, enter the following on the command line:
 }
 ````
 
-This will open up Juypter Notebook on your web browser. Navigate to the folder which you have saved the ``setup_instructions.ipynb`` notebook, and open it to complete the remaining ste-up tasks.
+This will open up Juypter Notebook on your web browser. On this page, navigate to the folder where you have saved the ``setup_instructions.ipynb`` notebook, and open this file to complete the remaining set-up tasks.
 
