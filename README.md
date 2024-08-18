@@ -1,6 +1,8 @@
 # README
 This repository contains the content for the Natural Language Processing (NLP) training run by Nicholson Consulting for the Indigidata workshop on the 26th August 2024. This README outlines part of the set-up instructions which should be completed before the workshop.
 
+## Please make sure that you are able to run all the tests in the `setup_instructions.ipynb` notebook in advace of the NLP session.
+The `setup_instructions.ipynb` notebook loads and tests some packages that we will need to use in the session.
 
 ## Install Python
 We will be using Python during this session. Make sure you have Python installed on your computer - we recommend Python 3.11.5 or later. You can download Python from [this link](https://www.python.org/downloads/). When the Python installation process begins on your computer, select the "Add to PATH" option.
