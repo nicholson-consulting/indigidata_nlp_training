@@ -14,8 +14,8 @@ Note that this webpage has download links for Windows, Linux and macOS operating
 This repository has the `setup_instructions.ipynb` notebook, which contains the remaining set-up instructions. You will need to download this notebook file onto your computer from this repository - you can do so by clicking the file above, then select the "Download raw file" button on the top right-hand side of the file. This will likely save it directly to your **Downloads** folder.
 
 
-## Install Juypter Notebook 
-The training content for this session is contained within Juypter Notebooks, so you will need to ensure Juypter Notebook is installed. To install Juypter Notebook, open Command Prompt if on Windows (or Terminal on Mac) and enter the following on the command line:
+## Install Jupyter Notebook 
+The training content for this session is contained within Jupyter Notebooks, so you will need to ensure Jupyter Notebook is installed. To install Jupyter Notebook, open Command Prompt if on Windows (or Terminal on Mac) and enter the following on the command line:
 
 ````
 {
@@ -29,9 +29,9 @@ Once that has run, enter the following on the command line:
 
 ````
 {
-	juypter notebook
+	jupyter notebook
 }
 ````
 
-This will open up Juypter Notebook on your web browser. On this page, navigate to the folder where you have saved the ``setup_instructions.ipynb`` notebook, and open this file to complete the remaining set-up tasks.
+This will open up Jupyter Notebook on your web browser. On this page, navigate to the folder where you have saved the ``setup_instructions.ipynb`` notebook, and open this file to complete the remaining set-up tasks.
 
